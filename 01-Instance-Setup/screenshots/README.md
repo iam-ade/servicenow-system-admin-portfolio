@@ -4,6 +4,8 @@ This folder contains screenshots showing:
 - Creating a comapny in ServiceNow
 - Uploading company logo on the instance and browser tab
 
+#
+#
 
 ![1a-Company_name](https://github.com/user-attachments/assets/97e4d52b-7fac-4321-8766-688d81769614)
 ![1b-Company_logo_img](https://github.com/user-attachments/assets/1ed59670-c7ff-42c0-9b90-d6eaa787b8fb)
