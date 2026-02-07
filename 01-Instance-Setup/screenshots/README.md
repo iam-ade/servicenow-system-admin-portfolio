@@ -1,8 +1,10 @@
 # Screenshots – Instance Setup
 This folder contains screenshots showing:
-- ServiceNow Xandu instance access
-- Creating a comapny in ServiceNow
-- Uploading company logo on the instance and browser tab
+- Creating company name
+- Update company logo
+- Upload company logo on the instance
+- Upload company logo on browser tab
+- Verify customized instance
 
 #
 
