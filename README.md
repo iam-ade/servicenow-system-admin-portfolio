@@ -12,6 +12,8 @@ poor configuration, lack of automation, and limited visibility.
 A fully configured ServiceNow ITSM environment implementing:
 - Structured user and role management
 - Incident management
+- Catalog Item
+- Workflow Automation
 - Data management
 - Application and Access Control
 - CMDB governance
