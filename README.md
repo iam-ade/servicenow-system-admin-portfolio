@@ -28,6 +28,7 @@ A fully configured ServiceNow ITSM environment implementing:
 - Lists and Filters
 - Forms
 - Tasks
+- Workflow Automation
 - Platform Analytics
 - Knowledge Management
 - Service Catalog
