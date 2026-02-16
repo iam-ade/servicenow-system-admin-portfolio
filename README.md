@@ -21,7 +21,6 @@ A fully configured ServiceNow ITSM environment implementing:
 - Securing ServiceNow Instance
 - Notification
 - Operational dashboards Visualization
-- Update Set Creation
 
 ## Tools & Technologies
 - Platform Overview
